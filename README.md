@@ -3,7 +3,7 @@
 ## <u> SauceDemo </u>
 
 
-:pushpin: Chalenge de automatizacion creada para presentar a la empresa Crowdar
+:pushpin: Challenge de automatizacion creada para presentar a la empresa Crowdar
 
 
 ### Table of Contents
