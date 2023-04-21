@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Ingreso de usuario","Visualizacion de la palabra Remover luego de hacer click en el boton de añadir al carrito","SUCCESS","2023-04-21T15:04:32.874-03:00[America/Buenos_Aires]","0.0","4.53"
+"Ingreso de usuario","Agregar Sauce Labs Backpack al carrito por titulo","FAILURE","2023-04-21T15:04:38.136-03:00[America/Buenos_Aires]","0.0","11.34"
+"Ingreso de usuario","loguearse con usuario y contraseña valido","SUCCESS","2023-04-21T15:04:59.21-03:00[America/Buenos_Aires]","0.0","3.76"
+"Ingreso de usuario","loguearse con los campos usuario y contraseña vacios","SUCCESS","2023-04-21T15:05:03.697-03:00[America/Buenos_Aires]","0.0","3.88"

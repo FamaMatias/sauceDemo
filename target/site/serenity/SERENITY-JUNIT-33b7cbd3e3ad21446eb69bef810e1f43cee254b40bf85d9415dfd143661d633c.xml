@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Ingreso de usuario" skipped="0" tests="4" time="23.48" timestamp="2023-04-21 03:04:32"><testcase name="Visualizacion de la palabra Remover luego de hacer click en el boton de añadir al carrito"/><testcase name="Agregar Sauce Labs Backpack al carrito por titulo"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+sauceDemo.tasks.AñadirProductoAlCarritoTask.performAs(AñadirProductoAlCarritoTask.java:14)&#13;
+sauceDemo.stepDefinitions.AgregadoDeProductosAlCarritoDefinitions.añadoProductoAlCarrito(AgregadoDeProductosAlCarritoDefinitions.java:50)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase><testcase name="loguearse con usuario y contraseña valido"/><testcase name="loguearse con los campos usuario y contraseña vacios"/></testsuite>
