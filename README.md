@@ -115,7 +115,7 @@ task parallel(type: ParallelTests, dependsOn: 'clean') {
 gradle.startParameter.continueOnFailure = true
 test.finalizedBy(aggregate)
 ```
-#### Lenguague
+#### Lenguaje
 
 * [Java](https://www.java.com/en/): Version 1.8_351
 
