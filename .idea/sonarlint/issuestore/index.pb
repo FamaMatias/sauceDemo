@@ -9,8 +9,6 @@ c
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
 7
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
-`
-0src/main/java/sauceDemo/utils/AndroidObject.java,f\6\f66c77dc440424ae48d05a688145935413393d8f
 \
 ,src/main/java/sauceDemo/utils/Utilities.java,e\2\e2918f4541090e0d58da7162c5e5226d741d149e
 o
@@ -35,23 +33,15 @@ k
 ;src/main/java/sauceDemo/questions/ValidarElementoLista.java,e\4\e4db62ee49296fd1df35d057a02488f9e6b816dc
 n
 >src/main/java/sauceDemo/questions/ValidateInformationText.java,6\5\65ae52d2201b643b605dfd4a5fa43ea22eda9c3d
-o
-?src/test/java/sauceDemo/runners/ConsumirServicioDeMLRunner.java,1\5\153326e47198acc627ebc66bb15018fae3c024b5
 w
 Gsrc/test/java/sauceDemo/runners/AgregadoDeProductosAlCarritoRunner.java,f\6\f6574b452a2b72dde81b247c58cb81d3004f03c3
-j
-:src/main/java/sauceDemo/endPoint/ConsumirApiDeTipoGet.java,6\d\6d46baa33368935894dee278f0760c037ec1afed
-a
-1src/main/java/sauceDemo/endPoint/ApiEndPoint.java,0\7\07580c20e9ff1199f612bf4fd68e4813cb32cfe9
 „
 Tsrc/test/java/sauceDemo/stepDefinitions/AgregadoDeProductosAlCarritoDefinitions.java,e\b\ebfd8c10b627cc0805ef425710db3d87d62067ca
-j
-:src/test/java/sauceDemo/runners/InicioDeSessionRunner.java,b\c\bc0ca2d72b8b20c91b0673c22b6edb388ca4a32f
-b
-2src/main/java/sauceDemo/tasks/AbrirPaginaTask.java,f\e\fe1cb1aa52350cef266813bb585bd2f41d5a8e6b
-w
-Gsrc/test/java/sauceDemo/stepDefinitions/InicioDeSessionDefinitions.java,f\a\fa3e7d54c7546a4f4b7dc3b05d881eb43d3b65a4
 b
 2src/test/java/sauceDemo/runners/GeneralRunner.java,9\0\9055fc53c4eb75a6d638f217f4c8f37cb618fc7b
 f
 6src/main/java/sauceDemo/questions/ValidarElemento.java,1\e\1ea971a0b6d0108b9386ff5f7890f6878eb15c92
+9
+	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233

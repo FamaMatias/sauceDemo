@@ -10,6 +10,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(features = "src/test/resources/features/inicioDeSession.feature"
         ,glue = "classpath:sauceDemo/stepDefinitions"
         //,tags = {"@Test"}
+        ,plugin = "pretty"
         ,snippets = SnippetType.CAMELCASE)
 public class InicioDeSessionRunner {
 }

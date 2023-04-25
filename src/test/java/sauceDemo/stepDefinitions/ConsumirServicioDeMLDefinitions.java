@@ -30,9 +30,9 @@ public class ConsumirServicioDeMLDefinitions {
     }
 
 
-    @Dado("^el Analista desea consumir el servicio llamado '(.*)'$")
-    public void elAnalistaDeseaConsumirElServicioLlamadoMenu(String arg1) {
-        ConsumirApiDeTipoGet.tipoGET(ApiEndPoint.obtenerEndPoint(arg1),analista);
+    @Dado("^el Analista desea consumir el servicio llamado '(.*)' '(.*)'$")
+    public void elAnalistaDeseaConsumirElServicioLlamadoMenu(String arg1,String arg2) {
+        ConsumirApiDeTipoGet.tipoGET(ApiEndPoint.obtenerEndPoint((arg1)+ "/" + (arg2)),analista);
 
     }
 

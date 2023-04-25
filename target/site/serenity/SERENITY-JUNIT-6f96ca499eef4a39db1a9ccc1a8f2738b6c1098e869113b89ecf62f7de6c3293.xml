@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Ingreso de usuario" skipped="0" tests="2" time="7.64" timestamp="2023-04-21 03:04:59"><testcase name="loguearse con usuario y contraseña valido"/><testcase name="loguearse con los campos usuario y contraseña vacios"/></testsuite>

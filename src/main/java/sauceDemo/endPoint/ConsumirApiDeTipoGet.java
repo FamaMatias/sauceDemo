@@ -11,7 +11,6 @@ public class ConsumirApiDeTipoGet {
                 .with(request -> request
                         .header("Content-Type", "application/json")
                         .relaxedHTTPSValidation("TLS")
-                        //.params(params)
                         .log().all()));
     }
 }

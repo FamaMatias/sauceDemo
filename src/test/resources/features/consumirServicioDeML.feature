@@ -7,5 +7,5 @@ Característica: creacion cliente desde el servicio
   Para garantizar que funcione correctamente
 
   Escenario: El analista de calidad verifica la respuesta del servicio de Mercado Libre
-    Dado el Analista desea consumir el servicio llamado 'departments'
+    Dado el Analista desea consumir el servicio llamado 'menu' 'departments'
     Entonces su status debe ser '200' y visualizar la pagina de 'departments'
