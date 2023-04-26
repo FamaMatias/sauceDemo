@@ -126,7 +126,7 @@ OS : Windos 11
 <a name="execution"></a>
 3. Ejecucion :keyboard:
 
-In compliance with the SOLID principles, we must carry out the execution according to the functionality that we want to see:
+Cumpliendo con los principios SOLID, debemos realizar la ejecución de acuerdo a la funcionalidad que queremos ver:
 
 | Runner (Java Class)                | Features                            |
 |------------------------------------|-------------------------------------|
